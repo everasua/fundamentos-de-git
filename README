@@ -1,0 +1,14 @@
+Proyecto para el curso del path básico de formación de Everis Front Fundamentos de Git. El proyecto debe de consitir en:
+
+Crear una cuenta en github y el repositorio fundamentos-de-git.
+
+El repositorio será entregado y tiene que tener lo siguiente en su árbol de commits:
+
+Tener una rama master y otra develop. (10%) 
+Tienen que existir al menos 5 commits diferentes en develop. (10%)
+Se tiene que producir y resolver al menos un conflicto en un merge en develop. (20%)
+Crear una rama "test_rebase" que haya partido de develop. Realizar 2 commits en develop y 2 commits en la rama test_rebase. Realizar un rebase de develop en la rama test_rebase. (20%)
+Tenemos que haber generado el flujo de Gitflow para al menos una funcionalidad (un archivo con un string "Hola Mundo GIT"), llevándola a producción (40%)
+
+Los porcentajes es el peso en la puntuación de cada punto.
+
