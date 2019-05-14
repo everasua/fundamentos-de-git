@@ -12,3 +12,9 @@ Tenemos que haber generado el flujo de Gitflow para al menos una funcionalidad (
 
 Los porcentajes es el peso en la puntuación de cada punto.
 
+El proyecto consta de los siguientes elementos:
+
+core -> elementos necesarios para la aplicación funcione.
+containers -> flujos de navegación del proyecto
+utils -> utilidades comunes del proyecto
+componentes -> elementos reutilizables del proyecto.
