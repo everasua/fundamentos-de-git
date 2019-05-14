@@ -15,6 +15,6 @@ Los porcentajes es el peso en la puntuación de cada punto.
 El proyecto consta de los siguientes elementos:
 
 core -> elementos necesarios para la aplicación funcione.
-containers -> flujos de navegación del proyecto
+containers -> carpeta con los flujos de navegación del proyecto
 utils -> utilidades comunes del proyecto
-componentes -> elementos reutilizables del proyecto.
+componentes -> carpeta con los bloques de funcionalidad del proyecto.
